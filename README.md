@@ -6,7 +6,7 @@ This project is a time series forecasting application that predicts the future e
 
 Upload your USD/TRY `.csv` file and get immediate visualizations and forecasts via ARIMA model.
 
-![Streamlit UI]
+![[Streamlit UI](https://timeseriesusd-tryexchangerateforecasting-gxwppgkk8tumjurkrazvf.streamlit.app/)]
 
 ## 🔧 Features
 
